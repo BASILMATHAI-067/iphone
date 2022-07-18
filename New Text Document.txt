@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <title>
+    Apple(IN)
+  </title>
+    
+    <head><div style="background-color:#313132;"><h1 align="center"><a href ="https://twitter.com/apple"><img src="k1.png" width="25px",height="25px"></a>&nbsp;&nbsp;<a href ="https://www.facebook.com/apple/"><img src="k2.png"width="25px",height="25px"></a>&nbsp;&nbsp;<a href ="https://www.instagram.com/apple/"><img src="k3.png" width="25px",height="25px"></a></h1></div>
+      <div ><h1 style="font-family:Arial, Helvetica, sans-serif;" align ="center"> <font color="green" style="font-size:70px"> iPhone 13</font></h1></div></head>
+    <body><div style="background-color:#fafafa;" align="center"><a href ="https://www.apple.com/in/iphone-13/"><img src="bk.jpg" alt="iPhone 13"></a>
+          <div style="background-color:#12213a; font-family:Arial;"><h1><font color="white" size =20><br><br><img src="D:\WEB TECHNOLOGY\icon_camera__k18dtigdlq6i_small.png" align="center" width="100" height="100"><br>Our most advanced<br>dual‑camera system ever.<br><br></font></h1>
+            <h1><font color="white" size =20><img src="icon_durability__c3pipmyt204m_large.png" align="center" width="100" height="100"><br>Durability that’s front and centre. <br>And edge to edge.<br><br></font></h1>
+            <h1><font color="white" size =20><img src="D:\WEB TECHNOLOGY\icon_chip__d1cr45p6tqs2_large.png" align="center" width="100" height="100"><br>A lightning-fast chip<br>that speeds up<br>everything you do.<br><br></font></h1> 
+            <h1><font color="white" size =20><img src="D:\WEB TECHNOLOGY\icon_battery__e4haplawmfcm_large.png" align="center" width="100" height="100"><br>A huge leap in battery life<br>you'll notice every day<br><br></font></h1> 
+            <img src="twist_endframe__eufh5vxn7iqa_small.jpg" alt="iPhone 13" width="960" height="auto" align="center">    
+            <h5><font color="white" size=5><br>iPhone 13</font></h5>
+            <h1><font style="font-size:100px" color="white">Your new<br>superpower.<br><br></font></h1>
+            
+        </div>
+        <div>
+            <h1><font  style="font-size:50px" color="black"><br><br>Which iPhone is right for you?</font></h1>
+
+            <table border="0"cellspacing="5px" >
+                <tr>
+                  <th><img src="1.jpg" alt="iPhone 13 pro" width="244px" height="auto" align="center"></th>
+                  <th><img src="2.jpg" alt="iPhone 13 " width="244px" height="auto" align="center"></th>
+                  <th><img src="3.jpg" alt="iPhone 13 SE" width="244px" height="auto" align="center"></th>
+                </tr>
+                <tr>
+                  <th style="font-size:25px">&nbsp iPhone 13 pro &nbsp</th>
+                  <th style="font-size:25px">&nbsp iPhone 13 &nbsp</th>
+                  <th style="font-size:25px">&nbsp iPhone SE &nbsp</th>
+                </tr>
+                <tr>
+                  <th align="center">&nbsp&nbsp The ultimate iPhone. &nbsp&nbsp</th>
+                  <th align="center">&nbsp&nbsp A total powerhouse. &nbsp&nbsp</th>
+                  <th align="center">&nbsp&nbsp Serious power. Serious value. &nbsp&nbsp</th>
+                </tr>
+                <tr>&nbsp</tr>
+                <tr>
+                  <td align="center">From ₹119900.00<br></td>
+                  <td align="center">From ₹69900.00<br></td>
+                  <td align="center">From ₹43900.00<br></td>
+                </tr>
+                <tr>&nbsp</tr>
+                <tr>
+                  <th style="font-size:20px"align="center">17.0 cm or 15.4 cm</th>
+                  <th style="font-size:20px" align="center">15.4 cm or 13.7 cm</th>
+                  <th style="font-size:20px" align="center">11.94 cm</th>
+                </tr>
+                <tr>
+                  <td align="center">(6.7” or 6.1”) all-screen<br>OLED display¹ with ProMotion<br><br>Pro camera system<br>Telephoto, Wide, Ultra Wide</td>
+                  <td align="center">(6.1” or 5.4”) all-screen<br>OLED display¹<br><br>Advanced dual-camera system<br>Wide, Ultra Wide</td>
+                  <td align="center">(4.7”) LCD display<br><br>Single-camera system<br>Wide</td>
+                </tr>
+              </table>
+              
+        </div>
+        <div style="background-color:#313132;">
+          <p style="font-size:12px;"><font color="white">Copyright © 2022 Basil Mathai. All rights reserved.</font></p></div>
+    </body>    
+</html>
